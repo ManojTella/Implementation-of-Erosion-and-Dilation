@@ -55,6 +55,8 @@ To implement Erosion and Dilation using Python and OpenCV.
 ## Output:
 
 ### Display the input Image
+![dip1](https://user-images.githubusercontent.com/94883876/169644352-c18d8c99-e5d4-40e0-b7fd-f4064a583d90.png)
+
 <br>
 <br>
 <br>
@@ -63,6 +65,8 @@ To implement Erosion and Dilation using Python and OpenCV.
 <br>
 
 ### Display the Eroded Image
+![dip2](https://user-images.githubusercontent.com/94883876/169644360-17001c41-8ea4-4bab-a005-924105864d5c.png)
+
 <br>
 <br>
 <br>
@@ -71,6 +75,8 @@ To implement Erosion and Dilation using Python and OpenCV.
 <br>
 
 ### Display the Dilated Image
+![dip1](https://user-images.githubusercontent.com/94883876/169644374-80f08f1d-1d92-48f9-8eb0-8c852383cbf0.png)
+
 <br>
 <br>
 <br>
