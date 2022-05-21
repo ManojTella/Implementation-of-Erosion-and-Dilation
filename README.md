@@ -23,9 +23,12 @@ To implement Erosion and Dilation using Python and OpenCV.
 
  
 ## Program:
+### Developed By: Manoj Guna Sundar Tella.
+### Register Number: 212221240026.
 
 ``` Python
 # Import the necessary packages
+
 
 
 
